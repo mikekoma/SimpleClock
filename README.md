@@ -9,7 +9,7 @@ Windows用デジタル時計
 Windows7以降?
 
 # Download
-[simpleclock_bin_ver001.zip](https://www.s-m-l.org/simpleclock/simpleclock_bin_ver001.zip)
+[simpleclock_bin_ver002.zip](https://www.s-m-l.org/simpleclock/simpleclock_bin_ver002.zip)
 
 # Installation
 SimpleClock.exe を移動して起動する
@@ -38,11 +38,15 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 # Development environment
-Delphi 11.3で開発  
+Delphi 12で開発  
 開発と動作確認はWindows10
 
 # History
-2023-08-20 Ver001
+2023-08-20 Ver001  
+初回リリース  
+  
+2024-11-12 Ver002  
+ミリ秒まで表示  
 
 # Author
 Suns & Moon Laboratory  

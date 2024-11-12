@@ -28,7 +28,7 @@ procedure TForm1.Timer1Timer(Sender: TObject);
 var
   str: string;
 begin
-  DateTimeToString(str, 'yyyy-mm-dd hh:nn:ss', Now);
+  DateTimeToString(str, 'yyyy-mm-dd hh:nn:ss.zzz', Now);
   Label1.Caption := str;
 end;
 
